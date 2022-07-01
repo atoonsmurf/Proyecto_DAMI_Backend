@@ -1,6 +1,7 @@
-# DAWII-Sesion04BackendFinalizado
-### Servicio Rest - Dos Tablas relacionadas
+# Proyecto_DAMI_Backend
+
+### Servicio Rest 
 
 ## Autor ✒️
 
-* **Jorge Jacinto ** - [jorgejacinto9701](https://github.com/jorgejacinto9701)
+Sebastián Sandoval
